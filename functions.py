@@ -1,5 +1,6 @@
 import mlbstatsapi
 mlb = mlbstatsapi.Mlb()
+import numpy as np
 
 mlb_teams = [
     "Los Angeles Angels",
@@ -34,6 +35,29 @@ mlb_teams = [
     "New York Yankees"
 ]
 
+
+hitting_stats = [
+    "avg",
+    "obp",
+    "slg",
+    "ops",
+    "babip",
+]
+
+
+pitching_stats = [
+    "era",
+    "whip",
+    "strikeoutwalkratio",
+    "strikeoutsper9inn",
+    "walksper9inn",
+    "hitsper9inn",
+    "runsscoredper9",
+    "homerunsper9",
+]
+
+
+
 team_ids = [mlb.get_team_id(team_name= name)[0] for name in mlb_teams]
 
 teams = {}
@@ -42,6 +66,45 @@ for id in team_ids:
     teams[mlb.get_team(id).abbreviation] = id
 
 
-def get_player_era(player_name):
+def get_player_era(player_name): ## Returns the ERA of a given pitcher in 2025
     player_id = mlb.get_people_id(player_name)[0]
-    return mlb.get_player_stats(player_id, stats=['season'], groups=['pitching'], season=2025)['pitching']['season'].splits[0].stat.era
+    return float(mlb.get_player_stats(player_id, stats=['season'], groups=['pitching'], season=2025)['pitching']['season'].splits[0].stat.era)
+
+def innings(innings_pitched_str): ## Converts innings pitched from string format to float format
+    if '.' in innings_pitched_str:
+        whole, fraction = innings_pitched_str.split('.')
+        return int(whole) + int(fraction) / 3
+    else:
+        return int(innings_pitched_str)
+    
+def pitcher_era_home_and_away(game_id): ## Returns the ERA of the starting pitchers for both teams in a given game_id
+    box = mlb.get_game_box_score(game_id = game_id)
+    home_innings = 0
+    away_innings = 0
+    key_home = None
+    key_away = None
+    for key in box.teams.home.players.keys():
+        if box.teams.home.players[key].stats['pitching'] != {}:
+            if innings(box.teams.home.players[key].stats['pitching']['inningspitched']) > home_innings:
+                home_innings = innings(box.teams.home.players[key].stats['pitching']['inningspitched'])
+                key_home = key
+    for key in box.teams.away.players.keys():
+        if box.teams.away.players[key].stats['pitching'] != {}:
+            if innings(box.teams.away.players[key].stats['pitching']['inningspitched']) > away_innings:
+                away_innings = innings(box.teams.away.players[key].stats['pitching']['inningspitched'])
+                key_away = key
+    if key_home is not None and key_away is not None:
+        home_era = np.round(box.teams.home.players[key_home].stats['pitching']['earnedruns'] / home_innings * 9, decimals=2)
+        away_era = np.round(box.teams.away.players[key_away].stats['pitching']['earnedruns'] / away_innings * 9, decimals=2)
+        return home_era, away_era
+    
+
+def get_2025_hitting_stats(team_abbreviation: str, hitting_stats: list): ## Returns a dictionary of hitting stats for a given team in 2025
+    team_id = teams[team_abbreviation]
+    team_stats = mlb.get_team_stats(team_id, stats=["season"] , groups=["hitting"], **{"season": 2025})
+    return {stat: float(getattr(team_stats['hitting']['season'].splits[0].stat, stat)) for stat in hitting_stats}
+
+def get_2025_pitching_stats(team_abbreviation: str, pitching_stats: list): ## Returns a dictionary of pitching stats for a given team in 2025
+    team_id = teams[team_abbreviation]
+    team_stats = mlb.get_team_stats(team_id, stats=["season"] , groups=["pitching"], **{"season": 2025})
+    return {stat: float(getattr(team_stats['pitching']['season'].splits[0].stat, stat)) for stat in pitching_stats}
