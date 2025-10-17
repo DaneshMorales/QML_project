@@ -1,6 +1,7 @@
 import mlbstatsapi
 mlb = mlbstatsapi.Mlb()
 import numpy as np
+import pandas as pd
 
 mlb_teams = [
     "Los Angeles Angels",
@@ -108,3 +109,46 @@ def get_2025_pitching_stats(team_abbreviation: str, pitching_stats: list): ## Re
     team_id = teams[team_abbreviation]
     team_stats = mlb.get_team_stats(team_id, stats=["season"] , groups=["pitching"], **{"season": 2025})
     return {stat: float(getattr(team_stats['pitching']['season'].splits[0].stat, stat)) for stat in pitching_stats}
+
+
+# Takes in game_id and list of pitching parameters to pull from box score. 
+# Returns dataframe of home and away team pitching stats for those parameters.
+def get_game_pitch_data(game_id, pitching_params):
+    box_score = mlb.get_game_box_score(game_id)
+    
+    home_abb = box_score.teams.home.team.abbreviation
+    away_abb = box_score.teams.away.team.abbreviation
+    home_team_pitching = box_score.teams.home.teamstats["pitching"]
+    away_team_pitching = box_score.teams.away.teamstats["pitching"]
+
+    data = []
+    for param in pitching_params:
+        data.append({
+            "Stat": param,
+            f"{home_abb}": home_team_pitching.get(param),
+            f"{away_abb}": away_team_pitching.get(param)
+        })
+
+    df = pd.DataFrame(data)
+    print(df.to_string(index=False))
+
+# Takes in game_id and list of batting parameters to pull from box score. 
+# Returns dataframe of home and away team pitching stats for those parameters.
+def get_game_bat_data(game_id, batting_param): 
+    box_score = mlb.get_game_box_score(game_id)
+    
+    home_abb = box_score.teams.home.team.abbreviation
+    away_abb = box_score.teams.away.team.abbreviation
+    home_team_batting = box_score.teams.home.teamstats["batting"]
+    away_team_batting = box_score.teams.away.teamstats["batting"]
+
+    data = []
+    for param in batting_param:
+        data.append({
+            "Stat": param,
+            f"{home_abb}": home_team_batting.get(param),
+            f"{away_abb}": away_team_batting.get(param)
+        })
+
+    df = pd.DataFrame(data)
+    print(df.to_string(index=False))
