@@ -129,7 +129,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 5, 2025",LAA,CLE,4.0,2.0,12.0,7.0,0.306,0.309,0.393,0.421,9.0,12.0,7.0,9.0,1.41,1.59,0.61,0.59,Jack Kochanowicz,3.6,Tanner Bibee,15.75,True
 "April 6, 2025",BOS,STL,1.0,0.0,8.0,11.0,0.341,0.384,0.408,0.483,23.0,30.0,12.0,13.0,1.32,1.2,0.64,0.58,Sean Newcomb,1.93,Andre Pallante,4.15,True
 "April 6, 2025",WSH,AZ,0.0,1.0,9.0,9.0,0.291,0.35,0.413,0.45,16.0,14.0,11.0,7.0,1.56,1.24,0.64,0.61,Trevor Williams,5.4,Corbin Burnes,7.2,True
-"April 6, 2025",BOS,STL,1.0,0.0,8.0,11.0,0.341,0.384,0.408,0.483,23.0,30.0,12.0,13.0,1.32,1.2,0.64,0.58,Sean Newcomb,1.93,Andre Pallante,4.15,True
 "April 6, 2025",BOS,STL,1.0,1.0,21.0,12.0,0.36,0.383,0.445,0.485,19.0,19.0,6.0,5.0,1.36,1.38,0.67,0.63,Hunter Dobbins,3.6,Gordon Graceffo,18.0,True
 "April 6, 2025",PHI,LAD,1.0,2.0,6.0,9.0,0.365,0.312,0.427,0.471,18.0,9.0,10.0,7.0,1.09,1.22,0.67,0.53,Cristopher Sánchez,6.35,Jack Dreyer,0.0,True
 "April 6, 2025",PIT,NYY,0.0,0.0,7.0,8.0,0.29,0.365,0.296,0.585,14.0,21.0,13.0,12.0,1.46,1.24,0.66,0.61,Andrew Heaney,1.29,Will Warren,9.0,True
@@ -329,7 +328,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 20, 2025",CHC,AZ,0.0,0.0,4.0,8.0,0.338,0.34,0.447,0.442,15.0,23.0,11.0,10.0,1.37,1.22,0.66,0.63,Jameson Taillon,1.8,Merrill Kelly,1.59,False
 "April 20, 2025",TEX,LAD,0.0,0.0,5.0,3.0,0.274,0.311,0.363,0.415,18.0,12.0,5.0,11.0,1.05,1.24,0.61,0.65,Tyler Mahle,0.0,Tyler Glasnow,0.0,False
 "April 20, 2025",COL,WSH,2.0,0.0,4.0,6.0,0.285,0.306,0.351,0.374,7.0,8.0,5.0,12.0,1.58,1.47,0.57,0.66,Angel Chivilli,0.0,Jake Irvin,2.84,False
-"April 20, 2025",COL,WSH,0.0,0.0,7.0,8.0,0.289,0.305,0.35,0.368,16.0,15.0,8.0,10.0,1.56,1.47,0.66,0.67,Antonio Senzatela,1.5,Brad Lord,4.5,True
 "April 20, 2025",LAA,SF,1.0,1.0,6.0,8.0,0.285,0.305,0.409,0.395,12.0,21.0,9.0,9.0,1.36,1.22,0.59,0.63,Yusei Kikuchi,0.0,Justin Verlander,1.5,True
 "April 20, 2025",HOU,SD,0.0,1.0,7.0,10.0,0.299,0.346,0.331,0.424,14.0,20.0,4.0,11.0,1.16,1.09,0.7,0.68,Framber Valdez,3.0,Dylan Cease,3.6,False
 "April 21, 2025",BOS,CWS,1.0,1.0,8.0,5.0,0.326,0.27,0.394,0.305,17.0,16.0,11.0,8.0,1.27,1.35,0.66,0.6,Walker Buehler,1.29,Jonathan Cannon,6.0,True
@@ -373,7 +371,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 24, 2025",MIN,CWS,0.0,2.0,6.0,8.0,0.293,0.279,0.347,0.31,15.0,12.0,8.0,10.0,1.26,1.38,0.6,0.58,Chris Paddack,3.6,Shane Smith,0.0,False
 "April 24, 2025",BOS,SEA,2.0,0.0,4.0,9.0,0.324,0.329,0.397,0.389,7.0,20.0,13.0,12.0,1.33,1.34,0.61,0.64,Garrett Crochet,7.2,Bryan Woo,3.0,False
 "April 24, 2025",KC,COL,0.0,2.0,13.0,4.0,0.287,0.285,0.318,0.341,24.0,5.0,7.0,6.0,1.25,1.56,0.61,0.64,Cole Ragans,12.0,Germán Márquez,13.5,True
-"April 24, 2025",KC,COL,0.0,2.0,9.0,9.0,0.29,0.287,0.32,0.345,10.0,17.0,9.0,8.0,1.26,1.56,0.67,0.59,Michael Lorenzen,1.5,Chase Dollander,9.64,True
 "April 24, 2025",SF,MIL,2.0,0.0,7.0,9.0,0.314,0.32,0.393,0.377,25.0,17.0,7.0,4.0,1.27,1.33,0.58,0.59,Landen Roupp,7.36,Tobias Myers,4.5,True
 "April 24, 2025",WSH,BAL,0.0,0.0,5.0,4.0,0.301,0.296,0.381,0.391,8.0,12.0,13.0,6.0,1.4,1.54,0.66,0.66,MacKenzie Gore,3.0,Cade Povich,1.35,False
 "April 24, 2025",LAA,PIT,2.0,2.0,6.0,9.0,0.272,0.302,0.398,0.341,6.0,12.0,5.0,7.0,1.42,1.16,0.62,0.65,Tyler Anderson,4.5,Carmen Mlodzinski,5.4,True
@@ -394,10 +391,8 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 25, 2025",SF,TEX,0.0,0.0,4.0,6.0,0.309,0.276,0.384,0.378,10.0,11.0,10.0,13.0,1.25,1.09,0.7,0.65,Justin Verlander,1.5,Nathan Eovaldi,0.0,False
 "April 26, 2025",DET,BAL,1.0,0.0,6.0,6.0,0.327,0.299,0.388,0.388,18.0,16.0,5.0,7.0,1.12,1.56,0.59,0.57,Keider Montero,2.08,Charlie Morton,7.36,True
 "April 26, 2025",CLE,BOS,0.0,2.0,10.0,7.0,0.309,0.324,0.386,0.398,14.0,25.0,10.0,11.0,1.37,1.33,0.62,0.66,Ben Lively,7.2,Tanner Houck,7.2,True
-"April 26, 2025",CLE,BOS,0.0,2.0,10.0,7.0,0.309,0.324,0.386,0.398,14.0,25.0,10.0,11.0,1.37,1.33,0.62,0.66,Ben Lively,7.2,Tanner Houck,7.2,True
 "April 26, 2025",CLE,BOS,1.0,0.0,7.0,11.0,0.307,0.327,0.386,0.4,13.0,19.0,3.0,7.0,1.39,1.32,0.65,0.69,Kolby Allard,1.5,Walker Buehler,4.5,False
 "April 26, 2025",DET,BAL,1.0,2.0,8.0,11.0,0.325,0.298,0.388,0.394,15.0,17.0,10.0,11.0,1.12,1.55,0.63,0.63,Casey Mize,1.69,Brandon Young,5.79,True
-"April 26, 2025",DET,BAL,1.0,0.0,6.0,6.0,0.327,0.299,0.388,0.388,18.0,16.0,5.0,7.0,1.12,1.56,0.59,0.57,Keider Montero,2.08,Charlie Morton,7.36,True
 "April 26, 2025",MIN,LAA,0.0,1.0,13.0,5.0,0.305,0.27,0.359,0.395,29.0,7.0,13.0,8.0,1.24,1.47,0.64,0.61,Simeon Woods Richardson,1.69,Ryan Johnson,0.0,True
 "April 26, 2025",STL,MIL,1.0,1.0,11.0,10.0,0.337,0.32,0.406,0.378,15.0,17.0,6.0,6.0,1.24,1.35,0.66,0.63,Sonny Gray,4.5,Quinn Priester,9.0,True
 "April 26, 2025",COL,CIN,2.0,3.0,8.0,13.0,0.29,0.329,0.357,0.402,11.0,25.0,9.0,13.0,1.58,1.12,0.65,0.69,Antonio Senzatela,7.2,Hunter Greene,4.5,False
@@ -413,7 +408,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 27, 2025",NYY,TOR,3.0,1.0,9.0,3.0,0.348,0.311,0.468,0.343,14.0,9.0,12.0,7.0,1.2,1.23,0.6,0.64,Clarke Schmidt,1.8,Chris Bassitt,6.35,True
 "April 27, 2025",WSH,NYM,2.0,0.0,9.0,9.0,0.304,0.311,0.384,0.39,13.0,21.0,4.0,11.0,1.38,1.2,0.61,0.67,Mitchell Parker,10.8,Tylor Megill,4.26,True
 "April 27, 2025",NYY,TOR,1.0,0.0,12.0,10.0,0.35,0.315,0.464,0.348,21.0,20.0,5.0,10.0,1.21,1.23,0.66,0.6,Max Fried,0.0,Kevin Gausman,20.25,True
-"April 27, 2025",NYY,TOR,3.0,1.0,9.0,3.0,0.348,0.311,0.468,0.343,14.0,9.0,12.0,7.0,1.2,1.23,0.6,0.64,Clarke Schmidt,1.8,Chris Bassitt,6.35,True
 "April 27, 2025",CLE,BOS,1.0,3.0,8.0,15.0,0.308,0.331,0.386,0.411,13.0,16.0,7.0,9.0,1.43,1.32,0.61,0.64,Logan Allen,14.54,Brayan Bello,4.5,False
 "April 27, 2025",DET,BAL,0.0,0.0,9.0,5.0,0.329,0.297,0.388,0.38,13.0,18.0,15.0,5.0,1.1,1.56,0.63,0.61,Tarik Skubal,0.0,Dean Kremer,7.94,True
 "April 27, 2025",MIN,LAA,0.0,0.0,9.0,4.0,0.305,0.267,0.36,0.388,16.0,8.0,13.0,7.0,1.21,1.46,0.66,0.63,Joe Ryan,0.0,José Soriano,5.4,True
@@ -449,7 +443,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "April 29, 2025",SEA,LAA,2.0,1.0,7.0,6.0,0.337,0.268,0.413,0.389,17.0,14.0,11.0,6.0,1.3,1.47,0.61,0.6,Bryce Miller,0.0,Jack Kochanowicz,4.5,True
 "April 29, 2025",SD,SF,1.0,1.0,11.0,7.0,0.325,0.309,0.388,0.377,12.0,8.0,14.0,8.0,1.13,1.25,0.66,0.65,Nick Pivetta,5.06,Logan Webb,9.0,True
 "April 29, 2025",LAD,MIA,2.0,0.0,18.0,9.0,0.331,0.318,0.45,0.385,18.0,14.0,7.0,5.0,1.29,1.55,0.68,0.58,Matt Sauer,1.8,Sandy Alcantara,23.62,True
-"April 30, 2025",CIN,STL,0.0,4.0,3.0,7.0,0.329,0.336,0.398,0.403,13.0,16.0,5.0,6.0,1.1,1.23,0.51,0.66,Brady Singer,1.5,Miles Mikolas,0.0,False
 "April 30, 2025",CIN,STL,0.0,4.0,3.0,7.0,0.329,0.336,0.398,0.403,13.0,16.0,5.0,6.0,1.1,1.23,0.51,0.66,Brady Singer,1.5,Miles Mikolas,0.0,False
 "April 30, 2025",CIN,STL,0.0,2.0,7.0,8.0,0.326,0.333,0.393,0.405,14.0,9.0,7.0,11.0,1.1,1.22,0.67,0.73,Brent Suter,0.0,Gordon Graceffo,1.8,False
 "April 30, 2025",HOU,DET,2.0,2.0,9.0,11.0,0.31,0.326,0.357,0.397,23.0,12.0,7.0,10.0,1.08,1.16,0.68,0.55,AJ Blubaugh,4.5,Jackson Jobe,6.75,False
@@ -508,7 +501,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 3, 2025",LAA,DET,0.0,1.0,10.0,6.0,0.269,0.326,0.386,0.415,16.0,6.0,3.0,10.0,1.47,1.14,0.66,0.69,Kyle Hendricks,1.17,Jack Flaherty,6.35,True
 "May 4, 2025",STL,NYM,1.0,0.0,9.0,10.0,0.333,0.333,0.396,0.418,17.0,23.0,6.0,9.0,1.3,1.25,0.57,0.65,Michael McGreevy,0.0,Tylor Megill,7.2,True
 "May 4, 2025",STL,NYM,1.0,0.0,11.0,10.0,0.332,0.331,0.396,0.422,18.0,27.0,7.0,5.0,1.29,1.24,0.63,0.59,Erick Fedde,5.4,Blade Tidwell,14.73,True
-"May 4, 2025",STL,NYM,1.0,0.0,9.0,10.0,0.333,0.333,0.396,0.418,17.0,23.0,6.0,9.0,1.3,1.25,0.57,0.65,Michael McGreevy,0.0,Tylor Megill,7.2,True
 "May 4, 2025",BAL,KC,4.0,7.0,11.0,17.0,0.297,0.297,0.39,0.36,16.0,12.0,6.0,6.0,1.55,1.2,0.62,0.64,Kyle Gibson,6.75,Michael Lorenzen,9.64,False
 "May 4, 2025",PIT,SD,0.0,1.0,8.0,10.0,0.306,0.329,0.335,0.393,19.0,14.0,7.0,11.0,1.26,1.14,0.64,0.64,Andrew Heaney,9.82,Stephen Kolek,0.0,False
 "May 4, 2025",BOS,MIN,1.0,1.0,7.0,9.0,0.332,0.307,0.42,0.367,11.0,16.0,10.0,6.0,1.28,1.22,0.64,0.65,Garrett Crochet,1.8,Chris Paddack,5.4,False
@@ -534,7 +526,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 5, 2025",ATH,SEA,1.0,0.0,13.0,8.0,0.318,0.339,0.422,0.414,25.0,22.0,9.0,5.0,1.4,1.3,0.61,0.65,Luis Severino,6.0,Bryce Miller,9.0,True
 "May 6, 2025",WSH,CLE,1.0,3.0,4.0,8.0,0.309,0.308,0.384,0.388,7.0,14.0,5.0,7.0,1.44,1.41,0.63,0.61,Brad Lord,4.5,Ben Lively,1.69,False
 "May 6, 2025",WSH,CLE,1.0,1.0,10.0,14.0,0.311,0.308,0.388,0.382,19.0,14.0,1.0,8.0,1.44,1.43,0.64,0.58,Jake Irvin,3.38,Luis L. Ortiz,8.44,True
-"May 6, 2025",WSH,CLE,1.0,3.0,4.0,8.0,0.309,0.308,0.384,0.388,7.0,14.0,5.0,7.0,1.44,1.41,0.63,0.61,Brad Lord,4.5,Ben Lively,1.69,False
 "May 6, 2025",MIA,LAD,1.0,2.0,11.0,8.0,0.314,0.334,0.385,0.462,17.0,17.0,11.0,14.0,1.56,1.29,0.65,0.62,Cal Quantrill,1.8,Tony Gonsolin,3.6,True
 "May 6, 2025",BOS,TEX,0.0,0.0,6.0,16.0,0.329,0.288,0.416,0.361,8.0,21.0,9.0,12.0,1.3,1.16,0.64,0.72,Sean Newcomb,0.0,Nathan Eovaldi,1.5,False
 "May 6, 2025",TB,PHI,1.0,3.0,6.0,13.0,0.31,0.339,0.368,0.406,7.0,15.0,5.0,12.0,1.2,1.29,0.62,0.66,Drew Rasmussen,6.23,Zack Wheeler,2.57,False
@@ -568,7 +559,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 8, 2025",BOS,TEX,1.0,0.0,6.0,5.0,0.329,0.29,0.42,0.359,15.0,19.0,3.0,7.0,1.3,1.17,0.56,0.63,Brayan Bello,0.0,Jack Leiter,6.75,True
 "May 8, 2025",KC,CWS,0.0,0.0,17.0,6.0,0.304,0.293,0.369,0.32,20.0,16.0,10.0,4.0,1.18,1.4,0.69,0.6,Kris Bubic,0.0,Davis Martin,8.31,True
 "May 8, 2025",COL,DET,0.0,0.0,4.0,14.0,0.279,0.334,0.347,0.421,7.0,13.0,10.0,11.0,1.56,1.14,0.65,0.7,Angel Chivilli,2.45,Casey Mize,1.5,False
-"May 8, 2025",COL,DET,0.0,1.0,5.0,14.0,0.28,0.335,0.343,0.424,11.0,13.0,5.0,4.0,1.57,1.14,0.68,0.68,Tanner Gordon,5.68,Keider Montero,1.12,False
 "May 8, 2025",TB,PHI,2.0,1.0,14.0,9.0,0.309,0.338,0.365,0.406,20.0,11.0,5.0,11.0,1.2,1.28,0.62,0.65,Ryan Pepiot,1.5,Jesús Luzardo,3.38,False
 "May 8, 2025",ATL,CIN,0.0,1.0,10.0,9.0,0.312,0.321,0.386,0.383,15.0,23.0,11.0,12.0,1.25,1.12,0.65,0.64,Spencer Schwellenbach,0.0,Nick Lodolo,3.0,True
 "May 8, 2025",LAA,TOR,2.0,1.0,9.0,14.0,0.276,0.315,0.39,0.359,12.0,24.0,11.0,13.0,1.51,1.26,0.61,0.69,José Soriano,5.4,Chris Bassitt,6.0,False
@@ -645,9 +635,7 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 14, 2025",BAL,MIN,2.0,3.0,11.0,10.0,0.296,0.309,0.384,0.379,11.0,15.0,11.0,7.0,1.49,1.17,0.61,0.68,Chayce McDermott,12.0,Simeon Woods Richardson,13.5,False
 "May 14, 2025",PHI,STL,3.0,3.0,10.0,19.0,0.335,0.338,0.402,0.406,14.0,19.0,6.0,11.0,1.26,1.24,0.68,0.65,Aaron Nola,22.09,Sonny Gray,17.18,False
 "May 14, 2025",BAL,MIN,1.0,2.0,4.0,9.0,0.295,0.306,0.382,0.375,16.0,17.0,8.0,10.0,1.49,1.16,0.64,0.57,Dean Kremer,6.35,Bailey Ober,5.79,False
-"May 14, 2025",BAL,MIN,2.0,3.0,11.0,10.0,0.296,0.309,0.384,0.379,11.0,15.0,11.0,7.0,1.49,1.17,0.61,0.68,Chayce McDermott,12.0,Simeon Woods Richardson,13.5,False
 "May 14, 2025",PHI,STL,0.0,0.0,7.0,6.0,0.335,0.335,0.397,0.398,16.0,17.0,10.0,5.0,1.23,1.23,0.64,0.56,Jesús Luzardo,1.29,Erick Fedde,0.0,True
-"May 14, 2025",PHI,STL,3.0,3.0,10.0,19.0,0.335,0.338,0.402,0.406,14.0,19.0,6.0,11.0,1.26,1.24,0.68,0.65,Aaron Nola,22.09,Sonny Gray,17.18,False
 "May 14, 2025",CLE,MIL,2.0,2.0,7.0,13.0,0.308,0.31,0.381,0.355,7.0,14.0,9.0,9.0,1.41,1.32,0.59,0.68,Gavin Williams,3.6,Logan Henderson,3.6,False
 "May 14, 2025",SF,AZ,1.0,3.0,11.0,13.0,0.312,0.335,0.386,0.444,21.0,17.0,6.0,12.0,1.25,1.35,0.57,0.58,Hayden Birdsong,9.0,Eduardo Rodriguez,9.0,False
 "May 14, 2025",SEA,NYY,0.0,2.0,6.0,9.0,0.327,0.347,0.399,0.481,16.0,13.0,12.0,15.0,1.34,1.18,0.65,0.62,Luis Castillo,1.5,Will Warren,3.6,False
@@ -741,7 +729,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "September 20, 2025",MIN,CLE,0.0,5.0,3.0,10.0,0.312,0.297,0.398,0.375,7.0,10.0,7.0,10.0,1.34,1.27,0.61,0.63,Joe Ryan,7.2,Slade Cecconi,0.0,False
 "May 21, 2025",PIT,CIN,0.0,0.0,9.0,4.0,0.298,0.317,0.319,0.391,15.0,6.0,8.0,7.0,1.25,1.17,0.65,0.58,Andrew Heaney,1.8,Brady Singer,3.6,True
 "May 21, 2025",TB,HOU,4.0,3.0,10.0,7.0,0.306,0.317,0.367,0.378,16.0,10.0,12.0,8.0,1.22,1.14,0.61,0.58,Taj Bradley,3.0,Hunter Brown,9.0,True
-"May 19, 2025",MIN,CLE,0.0,1.0,12.0,8.0,0.313,0.306,0.388,0.38,20.0,11.0,8.0,8.0,1.14,1.42,0.65,0.6,Joe Ryan,5.4,Logan Allen,6.0,True
 "May 21, 2025",MIA,CHC,0.0,1.0,6.0,8.0,0.311,0.335,0.387,0.447,15.0,11.0,8.0,3.0,1.48,1.28,0.62,0.59,Max Meyer,1.5,Cade Horton,1.69,False
 "May 21, 2025",MIL,BAL,1.0,1.0,7.0,14.0,0.308,0.299,0.349,0.387,14.0,21.0,10.0,8.0,1.32,1.48,0.69,0.66,Chad Patrick,1.93,Tomoyuki Sugano,3.0,False
 "May 21, 2025",STL,DET,0.0,0.0,5.0,7.0,0.334,0.331,0.404,0.421,16.0,17.0,7.0,9.0,1.21,1.17,0.59,0.67,Andre Pallante,4.76,Brant Hurter,0.0,False
@@ -764,7 +751,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 22, 2025",WSH,ATL,0.0,2.0,12.0,10.0,0.313,0.318,0.391,0.391,17.0,19.0,8.0,6.0,1.44,1.25,0.63,0.68,Trevor Williams,12.27,AJ Smith-Shawver,21.0,True
 "May 22, 2025",HOU,SEA,2.0,1.0,13.0,10.0,0.32,0.325,0.383,0.398,14.0,26.0,15.0,6.0,1.15,1.31,0.61,0.64,Lance McCullers Jr.,4.15,George Kirby,12.27,True
 "May 23, 2025",BOS,BAL,3.0,0.0,20.0,14.0,0.329,0.301,0.428,0.389,18.0,25.0,11.0,7.0,1.35,1.51,0.64,0.59,Brayan Bello,4.5,Cade Povich,1.8,True
-"May 23, 2025",BOS,BAL,3.0,0.0,20.0,14.0,0.329,0.301,0.428,0.389,18.0,25.0,11.0,7.0,1.35,1.51,0.64,0.59,Brayan Bello,4.5,Cade Povich,1.8,True
 "May 23, 2025",CIN,CHC,0.0,4.0,13.0,13.0,0.319,0.336,0.393,0.453,23.0,13.0,7.0,6.0,1.18,1.29,0.62,0.66,Hunter Greene,4.5,Matthew Boyd,9.0,False
 "May 23, 2025",PIT,MIL,2.0,1.0,12.0,11.0,0.303,0.31,0.326,0.354,20.0,22.0,16.0,8.0,1.27,1.34,0.61,0.66,Paul Skenes,1.5,Freddy Peralta,2.08,True
 "May 23, 2025",WSH,SF,0.0,0.0,5.0,7.0,0.312,0.314,0.389,0.385,13.0,13.0,13.0,3.0,1.44,1.22,0.56,0.64,MacKenzie Gore,1.5,Landen Roupp,0.0,False
@@ -779,7 +765,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 23, 2025",COL,NYY,0.0,1.0,8.0,5.0,0.286,0.342,0.361,0.47,13.0,12.0,7.0,10.0,1.6,1.17,0.62,0.66,Tanner Gordon,3.0,Clarke Schmidt,5.79,True
 "May 23, 2025",LAA,MIA,2.0,1.0,6.0,14.0,0.29,0.315,0.417,0.389,9.0,23.0,8.0,10.0,1.53,1.48,0.63,0.64,Yusei Kikuchi,0.0,Sandy Alcantara,8.44,True
 "May 23, 2025",ATH,PHI,1.0,1.0,7.0,8.0,0.318,0.337,0.416,0.41,13.0,17.0,10.0,13.0,1.49,1.23,0.64,0.59,Jacob Lopez,1.29,Zack Wheeler,0.0,False
-"May 24, 2025",BOS,BAL,3.0,0.0,7.0,7.0,0.328,0.301,0.43,0.386,10.0,19.0,12.0,5.0,1.34,1.5,0.66,0.67,Hunter Dobbins,9.0,Zach Eflin,7.2,True
 "May 24, 2025",BOS,BAL,3.0,0.0,7.0,7.0,0.328,0.301,0.43,0.386,10.0,19.0,12.0,5.0,1.34,1.5,0.66,0.67,Hunter Dobbins,9.0,Zach Eflin,7.2,True
 "May 24, 2025",BOS,BAL,1.0,0.0,5.0,8.0,0.326,0.303,0.427,0.385,15.0,14.0,7.0,7.0,1.35,1.49,0.58,0.64,Lucas Giolito,0.0,Trevor Rogers,0.0,False
 "May 24, 2025",MIN,KC,2.0,0.0,9.0,11.0,0.311,0.301,0.385,0.363,17.0,25.0,18.0,3.0,1.15,1.18,0.65,0.66,Zebby Matthews,4.5,Michael Wacha,7.2,True
@@ -852,7 +837,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "May 28, 2025",TEX,TOR,0.0,1.0,1.0,8.0,0.282,0.317,0.355,0.372,8.0,19.0,9.0,13.0,1.16,1.2,0.65,0.62,Tyler Mahle,0.0,Eric Lauer,0.0,False
 "May 28, 2025",LAA,NYY,0.0,0.0,5.0,7.0,0.284,0.343,0.404,0.466,13.0,14.0,13.0,8.0,1.51,1.15,0.62,0.66,Yusei Kikuchi,1.8,Clarke Schmidt,0.0,False
 "May 28, 2025",SEA,WSH,0.0,4.0,5.0,12.0,0.324,0.308,0.398,0.392,7.0,11.0,6.0,4.0,1.32,1.4,0.65,0.71,George Kirby,10.8,Trevor Williams,0.0,False
-"May 29, 2025",PHI,ATL,2.0,1.0,10.0,13.0,0.338,0.32,0.41,0.389,21.0,20.0,8.0,7.0,1.27,1.25,0.6,0.62,Cristopher Sánchez,3.18,AJ Smith-Shawver,6.75,True
 "May 29, 2025",PHI,ATL,2.0,1.0,10.0,13.0,0.338,0.32,0.41,0.389,21.0,20.0,8.0,7.0,1.27,1.25,0.6,0.62,Cristopher Sánchez,3.18,AJ Smith-Shawver,6.75,True
 "May 29, 2025",PHI,ATL,0.0,2.0,7.0,8.0,0.337,0.321,0.407,0.391,19.0,16.0,7.0,12.0,1.28,1.25,0.58,0.65,Zack Wheeler,10.12,Chris Sale,0.0,False
 "May 29, 2025",TOR,ATH,4.0,0.0,18.0,4.0,0.321,0.317,0.381,0.413,18.0,11.0,13.0,3.0,1.19,1.51,0.66,0.6,José Berríos,0.0,Sean Newcomb,0.0,True
@@ -941,7 +925,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "June 4, 2025",LAD,NYM,1.0,2.0,6.0,4.0,0.341,0.326,0.466,0.41,12.0,11.0,7.0,10.0,1.29,1.23,0.67,0.67,Tony Gonsolin,3.6,Griffin Canning,0.0,False
 "June 5, 2025",STL,KC,1.0,1.0,8.0,12.0,0.329,0.302,0.396,0.364,17.0,17.0,4.0,3.0,1.25,1.19,0.7,0.6,Miles Mikolas,4.5,Noah Cameron,0.0,True
 "June 5, 2025",ATL,AZ,3.0,3.0,13.0,12.0,0.318,0.333,0.389,0.448,8.0,16.0,7.0,9.0,1.26,1.33,0.62,0.63,Grant Holmes,8.1,Tommy Henry,6.75,False
-"June 5, 2025",STL,KC,1.0,1.0,8.0,12.0,0.329,0.302,0.396,0.364,17.0,17.0,4.0,3.0,1.25,1.19,0.7,0.6,Miles Mikolas,4.5,Noah Cameron,0.0,True
 "June 5, 2025",STL,KC,1.0,2.0,7.0,12.0,0.329,0.303,0.395,0.367,16.0,21.0,6.0,13.0,1.26,1.19,0.65,0.66,Matthew Liberatore,15.75,Cole Ragans,15.0,False
 "June 5, 2025",CWS,DET,0.0,1.0,11.0,8.0,0.296,0.323,0.342,0.408,22.0,17.0,9.0,5.0,1.37,1.17,0.66,0.63,Sean Burke,2.57,Casey Mize,3.86,True
 "June 5, 2025",TOR,PHI,1.0,0.0,14.0,5.0,0.326,0.33,0.396,0.402,11.0,10.0,8.0,4.0,1.2,1.31,0.63,0.65,Chris Bassitt,1.29,Jesús Luzardo,30.86,True
@@ -969,7 +952,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "June 6, 2025",ATH,BAL,0.0,2.0,11.0,8.0,0.324,0.302,0.42,0.388,16.0,22.0,9.0,8.0,1.54,1.43,0.6,0.64,JP Sears,7.2,Dean Kremer,8.44,True
 "June 6, 2025",SF,ATL,0.0,1.0,8.0,6.0,0.309,0.318,0.369,0.386,12.0,20.0,10.0,7.0,1.2,1.26,0.62,0.66,Hayden Birdsong,4.15,Spencer Schwellenbach,4.5,True
 "June 7, 2025",DET,CHC,0.0,5.0,7.0,7.0,0.322,0.333,0.407,0.447,14.0,2.0,8.0,7.0,1.16,1.23,0.7,0.64,Keider Montero,6.35,Jameson Taillon,1.29,False
-"June 6, 2025",CIN,AZ,2.0,2.0,9.0,6.0,0.318,0.331,0.393,0.447,20.0,9.0,12.0,10.0,1.19,1.33,0.69,0.62,Nick Lodolo,4.5,Eduardo Rodriguez,3.6,True
 "June 7, 2025",MIN,TOR,2.0,2.0,7.0,10.0,0.311,0.325,0.384,0.398,11.0,14.0,6.0,7.0,1.18,1.2,0.65,0.66,Chris Paddack,3.0,Kevin Gausman,4.5,False
 "June 7, 2025",STL,LAD,0.0,0.0,9.0,9.0,0.329,0.341,0.395,0.46,14.0,25.0,6.0,11.0,1.26,1.3,0.6,0.68,Erick Fedde,0.0,Yoshinobu Yamamoto,0.0,True
 "June 7, 2025",WSH,TEX,0.0,0.0,3.0,8.0,0.306,0.282,0.387,0.353,7.0,17.0,8.0,9.0,1.38,1.13,0.68,0.68,Mitchell Parker,0.0,Jacob deGrom,0.0,False
@@ -1132,9 +1114,7 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "June 19, 2025",WSH,COL,2.0,0.0,8.0,11.0,0.306,0.291,0.383,0.381,11.0,20.0,13.0,5.0,1.38,1.56,0.67,0.66,Trevor Williams,3.38,Chase Dollander,3.0,True
 "June 19, 2025",NYY,LAA,2.0,3.0,12.0,5.0,0.336,0.287,0.449,0.398,12.0,9.0,10.0,6.0,1.18,1.47,0.6,0.61,Carlos Rodón,4.5,Tyler Anderson,6.0,True
 "June 19, 2025",DET,PIT,1.0,0.0,12.0,6.0,0.323,0.3,0.418,0.333,10.0,15.0,9.0,4.0,1.18,1.2,0.7,0.57,Tarik Skubal,3.18,Andrew Heaney,15.75,True
-"June 19, 2025",DET,PIT,1.0,3.0,5.0,12.0,0.322,0.302,0.417,0.336,15.0,19.0,14.0,12.0,1.19,1.2,0.66,0.63,Keider Montero,1.8,Paul Skenes,3.0,False
 "June 19, 2025",CWS,STL,1.0,1.0,9.0,8.0,0.293,0.328,0.343,0.392,16.0,23.0,11.0,10.0,1.41,1.27,0.62,0.67,Sean Burke,1.69,Erick Fedde,1.8,False
-"June 19, 2025",CWS,STL,2.0,3.0,8.0,12.0,0.294,0.328,0.343,0.396,20.0,15.0,11.0,9.0,1.41,1.27,0.68,0.6,Mike Vasil,14.73,Michael McGreevy,1.8,False
 "June 19, 2025",CHC,MIL,3.0,3.0,6.0,12.0,0.324,0.314,0.437,0.369,13.0,20.0,7.0,9.0,1.23,1.3,0.59,0.58,Jameson Taillon,11.25,Freddy Peralta,5.4,False
 "June 19, 2025",TEX,KC,0.0,3.0,3.0,6.0,0.293,0.301,0.369,0.371,11.0,8.0,2.0,7.0,1.14,1.2,0.66,0.68,Jacob Latz,1.59,Michael Wacha,1.5,False
 "June 19, 2025",TOR,AZ,3.0,2.0,6.0,9.0,0.325,0.33,0.402,0.442,9.0,9.0,8.0,7.0,1.25,1.35,0.57,0.63,Kevin Gausman,14.54,Ryne Nelson,1.59,False
@@ -1307,13 +1287,9 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 2, 2025",NYM,MIL,0.0,3.0,2.0,10.0,0.322,0.323,0.413,0.383,6.0,17.0,3.0,7.0,1.31,1.28,0.57,0.6,Clay Holmes,3.38,Freddy Peralta,3.0,False
 "July 2, 2025",TB,ATH,3.0,3.0,10.0,10.0,0.323,0.316,0.412,0.41,6.0,14.0,17.0,7.0,1.19,1.48,0.67,0.69,Ryan Pepiot,3.0,Mitch Spence,7.2,True
 "July 2, 2025",PIT,STL,0.0,0.0,8.0,6.0,0.307,0.323,0.347,0.393,13.0,18.0,8.0,9.0,1.2,1.26,0.64,0.68,Mitch Keller,0.0,Sonny Gray,5.68,True
-"July 2, 2025",WSH,DET,0.0,4.0,9.0,15.0,0.311,0.326,0.391,0.431,21.0,20.0,11.0,8.0,1.39,1.19,0.62,0.57,Trevor Williams,21.0,Dylan Smith,0.0,False
 "July 2, 2025",WSH,DET,0.0,0.0,11.0,8.0,0.312,0.325,0.391,0.43,10.0,12.0,6.0,12.0,1.39,1.2,0.61,0.67,MacKenzie Gore,3.38,Jack Flaherty,5.4,True
 "July 2, 2025",PHI,SD,1.0,0.0,12.0,5.0,0.329,0.315,0.402,0.376,16.0,22.0,7.0,9.0,1.27,1.23,0.56,0.7,Taijuan Walker,0.0,Nick Pivetta,1.5,False
-"July 2, 2025",PHI,SD,2.0,0.0,10.0,6.0,0.33,0.314,0.404,0.374,17.0,13.0,9.0,6.0,1.26,1.24,0.68,0.62,Cristopher Sánchez,1.29,Dylan Cease,6.0,True
-"July 2, 2025",NYM,MIL,0.0,3.0,2.0,10.0,0.322,0.323,0.413,0.383,6.0,17.0,3.0,7.0,1.31,1.28,0.57,0.6,Clay Holmes,3.38,Freddy Peralta,3.0,False
 "July 2, 2025",NYM,MIL,2.0,2.0,9.0,7.0,0.323,0.323,0.414,0.383,13.0,15.0,11.0,5.0,1.31,1.28,0.66,0.59,Blade Tidwell,6.23,Jacob Misiorowski,12.27,True
-"July 1, 2025",BOS,CIN,0.0,1.0,8.0,3.0,0.323,0.319,0.421,0.4,9.0,8.0,5.0,10.0,1.32,1.23,0.65,0.64,Brayan Bello,3.6,Brady Singer,6.0,True
 "July 2, 2025",MIA,MIN,1.0,0.0,8.0,8.0,0.317,0.309,0.39,0.391,12.0,13.0,9.0,5.0,1.37,1.25,0.73,0.66,Janson Junk,3.0,Simeon Woods Richardson,1.8,False
 "July 2, 2025",TOR,NYY,3.0,2.0,13.0,15.0,0.33,0.337,0.401,0.447,15.0,17.0,7.0,8.0,1.27,1.2,0.6,0.6,José Berríos,12.46,Will Warren,18.0,True
 "July 2, 2025",BOS,CIN,1.0,1.0,11.0,12.0,0.323,0.319,0.422,0.4,10.0,19.0,6.0,6.0,1.33,1.23,0.67,0.69,Chris Murphy,0.0,Nick Martinez,5.4,False
@@ -1420,7 +1396,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 9, 2025",ATH,ATL,0.0,5.0,9.0,11.0,0.316,0.316,0.414,0.385,11.0,8.0,4.0,10.0,1.47,1.24,0.63,0.66,Mitch Spence,12.0,Bryce Elder,2.7,False
 "July 10, 2025",BAL,NYM,1.0,0.0,9.0,5.0,0.305,0.323,0.4,0.415,17.0,14.0,6.0,6.0,1.41,1.3,0.63,0.61,Tomoyuki Sugano,4.5,Brandon Waddell,9.0,True
 "July 10, 2025",BAL,NYM,1.0,0.0,6.0,5.0,0.305,0.324,0.399,0.417,10.0,17.0,8.0,6.0,1.42,1.3,0.69,0.58,Charlie Morton,1.5,David Peterson,1.29,True
-"July 10, 2025",BAL,NYM,1.0,0.0,9.0,5.0,0.305,0.323,0.4,0.415,17.0,14.0,6.0,6.0,1.41,1.3,0.63,0.61,Tomoyuki Sugano,4.5,Brandon Waddell,9.0,True
 "July 10, 2025",MIN,CHC,1.0,2.0,4.0,14.0,0.309,0.326,0.394,0.448,12.0,13.0,6.0,9.0,1.25,1.23,0.67,0.66,Chris Paddack,10.8,Colin Rea,1.29,False
 "July 10, 2025",CIN,MIA,1.0,0.0,9.0,4.0,0.316,0.314,0.395,0.388,10.0,15.0,6.0,10.0,1.24,1.34,0.61,0.61,Nick Lodolo,0.0,Cal Quantrill,9.0,True
 "July 10, 2025",NYY,SEA,1.0,1.0,6.0,9.0,0.337,0.322,0.455,0.407,11.0,15.0,8.0,6.0,1.22,1.26,0.64,0.62,Marcus Stroman,3.6,Bryan Woo,2.45,True
@@ -1429,7 +1404,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 10, 2025",ATH,ATL,2.0,2.0,8.0,5.0,0.316,0.314,0.415,0.385,11.0,8.0,12.0,16.0,1.45,1.24,0.65,0.65,JP Sears,5.4,Spencer Strider,4.05,True
 "July 10, 2025",LAA,TEX,2.0,1.0,10.0,13.0,0.299,0.3,0.407,0.372,15.0,16.0,8.0,13.0,1.45,1.17,0.6,0.61,Carson Fulmer,5.06,Patrick Corbin,3.6,False
 "July 10, 2025",SD,AZ,2.0,0.0,13.0,9.0,0.315,0.328,0.374,0.445,21.0,16.0,5.0,6.0,1.24,1.32,0.61,0.59,Randy Vásquez,4.15,Eduardo Rodriguez,9.0,True
-"July 11, 2025",CWS,CLE,1.0,3.0,2.0,5.0,0.294,0.294,0.344,0.367,5.0,6.0,9.0,6.0,1.39,1.35,0.65,0.61,Tyler Alexander,5.4,Logan Allen,3.0,False
 "July 11, 2025",CWS,CLE,1.0,3.0,2.0,5.0,0.294,0.294,0.344,0.367,5.0,6.0,9.0,6.0,1.39,1.35,0.65,0.61,Tyler Alexander,5.4,Logan Allen,3.0,False
 "July 11, 2025",CWS,CLE,2.0,1.0,5.0,8.0,0.295,0.295,0.344,0.367,21.0,27.0,10.0,9.0,1.39,1.35,0.61,0.6,Jonathan Cannon,3.6,Gavin Williams,5.4,True
 "July 11, 2025",BAL,MIA,0.0,1.0,12.0,5.0,0.306,0.313,0.4,0.386,19.0,7.0,9.0,8.0,1.4,1.34,0.68,0.62,Dean Kremer,0.0,Edward Cabrera,9.0,True
@@ -1476,7 +1450,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 13, 2025",ATH,TOR,3.0,2.0,8.0,4.0,0.316,0.33,0.417,0.404,20.0,2.0,9.0,7.0,1.45,1.27,0.68,0.61,Jeffrey Springs,4.05,José Berríos,12.0,True
 "July 13, 2025",LAA,AZ,0.0,0.0,3.0,7.0,0.302,0.328,0.409,0.444,15.0,19.0,7.0,9.0,1.45,1.34,0.62,0.61,José Soriano,1.8,Merrill Kelly,1.8,False
 "July 13, 2025",SD,PHI,0.0,0.0,7.0,6.0,0.315,0.329,0.374,0.404,17.0,14.0,11.0,6.0,1.24,1.25,0.65,0.63,Nick Pivetta,0.0,Cristopher Sánchez,1.23,False
-"July 15, 2025",NL,AL,2.0,1.0,8.0,9.0,0.308,0.282,0.457,0.378,12.0,10.0,6.0,12.0,1.1,1.22,0.68,0.63,Paul Skenes,0.0,Tarik Skubal,18.0,True
 "July 18, 2025",CHC,BOS,1.0,0.0,6.0,7.0,0.325,0.326,0.445,0.431,17.0,15.0,8.0,7.0,1.23,1.3,0.6,0.64,Colin Rea,1.8,Lucas Giolito,6.75,True
 "July 18, 2025",PIT,CWS,0.0,2.0,5.0,11.0,0.299,0.296,0.338,0.347,13.0,20.0,6.0,4.0,1.21,1.37,0.62,0.64,Bailey Falter,9.0,Jonathan Cannon,1.29,False
 "July 18, 2025",WSH,SD,1.0,1.0,9.0,11.0,0.311,0.316,0.389,0.375,15.0,13.0,6.0,13.0,1.41,1.24,0.61,0.62,Michael Soroka,1.8,Dylan Cease,0.0,False
@@ -1588,7 +1561,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 25, 2025",SF,NYM,0.0,1.0,9.0,10.0,0.311,0.322,0.376,0.412,18.0,13.0,10.0,9.0,1.27,1.3,0.61,0.67,Logan Webb,13.5,Clay Holmes,1.8,False
 "July 26, 2025",KC,CLE,2.0,0.0,6.0,9.0,0.299,0.298,0.381,0.372,13.0,25.0,11.0,5.0,1.22,1.32,0.66,0.64,Michael Wacha,1.69,Gavin Williams,3.0,True
 "July 26, 2025",NYY,PHI,1.0,2.0,9.0,13.0,0.333,0.329,0.455,0.413,27.0,26.0,8.0,12.0,1.25,1.25,0.59,0.61,Marcus Stroman,9.82,Ranger Suárez,1.59,False
-"July 26, 2025",KC,CLE,2.0,0.0,6.0,9.0,0.299,0.298,0.381,0.372,13.0,25.0,11.0,5.0,1.22,1.32,0.66,0.64,Michael Wacha,1.69,Gavin Williams,3.0,True
 "July 26, 2025",KC,CLE,2.0,1.0,8.0,9.0,0.299,0.298,0.381,0.373,8.0,16.0,6.0,10.0,1.22,1.32,0.61,0.68,Kris Bubic,10.12,Tanner Bibee,7.2,False
 "July 26, 2025",DET,TOR,0.0,3.0,2.0,12.0,0.317,0.334,0.412,0.414,3.0,15.0,9.0,13.0,1.24,1.23,0.7,0.65,Tarik Skubal,0.0,Kevin Gausman,0.0,False
 "July 26, 2025",PIT,AZ,1.0,0.0,6.0,4.0,0.299,0.326,0.339,0.441,12.0,11.0,9.0,4.0,1.2,1.32,0.69,0.65,Andrew Heaney,0.0,Merrill Kelly,1.35,True
@@ -1633,7 +1605,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "July 28, 2025",SD,NYM,1.0,2.0,14.0,6.0,0.317,0.322,0.379,0.414,23.0,12.0,15.0,9.0,1.23,1.31,0.64,0.66,Dylan Cease,9.64,Frankie Montas,10.38,True
 "July 28, 2025",SF,PIT,0.0,2.0,11.0,9.0,0.312,0.3,0.376,0.341,28.0,14.0,8.0,8.0,1.28,1.2,0.6,0.66,Carson Whisenhunt,7.2,Yohan Ramírez,0.0,False
 "July 28, 2025",ATH,SEA,0.0,1.0,7.0,9.0,0.316,0.322,0.424,0.411,14.0,11.0,10.0,5.0,1.41,1.26,0.61,0.64,JP Sears,4.15,Luis Castillo,1.29,False
-"July 29, 2025",BAL,TOR,4.0,2.0,19.0,11.0,0.309,0.335,0.413,0.415,19.0,14.0,3.0,9.0,1.41,1.26,0.68,0.64,Charlie Morton,4.5,Lazaro Estrada,16.2,True
 "July 29, 2025",BAL,TOR,0.0,0.0,7.0,8.0,0.309,0.335,0.412,0.414,12.0,17.0,9.0,7.0,1.41,1.26,0.63,0.65,Brandon Young,3.0,Eric Lauer,3.6,True
 "July 29, 2025",CLE,COL,2.0,3.0,15.0,10.0,0.301,0.293,0.376,0.387,20.0,11.0,7.0,5.0,1.32,1.59,0.73,0.6,Logan Allen,2.57,Tanner Gordon,18.0,True
 "July 29, 2025",DET,AZ,3.0,0.0,19.0,5.0,0.319,0.324,0.419,0.437,16.0,18.0,10.0,4.0,1.24,1.33,0.62,0.64,Brant Hurter,0.0,Brandon Pfaadt,13.5,True
@@ -1699,7 +1670,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "August 2, 2025",SD,STL,1.0,1.0,9.0,12.0,0.318,0.32,0.379,0.389,11.0,15.0,10.0,5.0,1.21,1.28,0.67,0.65,Randy Vásquez,11.25,Michael McGreevy,6.0,False
 "August 3, 2025",BOS,HOU,0.0,1.0,8.0,3.0,0.323,0.321,0.432,0.403,10.0,4.0,5.0,5.0,1.3,1.19,0.65,0.68,Lucas Giolito,1.12,Framber Valdez,7.5,True
 "August 3, 2025",TB,LAD,0.0,0.0,7.0,8.0,0.317,0.329,0.398,0.439,20.0,17.0,3.0,9.0,1.21,1.31,0.58,0.68,Joe Boyle,0.0,Yoshinobu Yamamoto,0.0,False
-"August 2, 2025",CIN,ATL,0.0,2.0,10.0,10.0,0.321,0.318,0.393,0.389,24.0,13.0,11.0,7.0,1.24,1.29,0.63,0.58,Brent Suter,10.12,Hurston Waldrep,1.59,False
 "August 3, 2025",WSH,MIL,0.0,2.0,7.0,16.0,0.31,0.33,0.387,0.397,14.0,21.0,10.0,9.0,1.43,1.24,0.62,0.65,Brad Lord,5.79,Logan Henderson,2.08,False
 "August 3, 2025",TOR,KC,0.0,0.0,8.0,6.0,0.334,0.3,0.413,0.384,13.0,11.0,6.0,8.0,1.25,1.23,0.59,0.62,Chris Bassitt,1.5,Seth Lugo,3.86,False
 "August 3, 2025",NYM,SF,1.0,2.0,8.0,13.0,0.32,0.312,0.408,0.376,13.0,13.0,9.0,8.0,1.32,1.28,0.63,0.63,Austin Warren,0.0,Carson Whisenhunt,1.69,False
@@ -1774,7 +1744,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "August 8, 2025",SEA,TB,1.0,2.0,7.0,5.0,0.319,0.314,0.409,0.399,9.0,5.0,8.0,5.0,1.23,1.21,0.69,0.68,Luis Castillo,2.57,Drew Rasmussen,0.0,True
 "August 8, 2025",LAD,TOR,1.0,0.0,7.0,10.0,0.329,0.34,0.44,0.428,19.0,15.0,7.0,7.0,1.31,1.25,0.69,0.6,Clayton Kershaw,1.5,Max Scherzer,3.0,True
 "August 8, 2025",SF,WSH,2.0,0.0,10.0,4.0,0.312,0.307,0.378,0.382,17.0,11.0,7.0,4.0,1.27,1.45,0.65,0.64,Kai-Wei Teng,0.0,Jake Irvin,5.06,True
-"August 9, 2025",ATL,MIA,1.0,0.0,7.0,5.0,0.317,0.315,0.388,0.397,16.0,11.0,7.0,11.0,1.28,1.3,0.69,0.69,Hurston Waldrep,1.5,Ryan Gusto,4.5,True
 "August 9, 2025",ATL,MIA,2.0,0.0,11.0,9.0,0.318,0.315,0.39,0.396,18.0,12.0,9.0,6.0,1.28,1.31,0.64,0.6,Erick Fedde,7.2,Sandy Alcantara,9.0,True
 "August 9, 2025",NYY,HOU,1.0,1.0,9.0,7.0,0.328,0.322,0.445,0.407,15.0,14.0,11.0,2.0,1.26,1.19,0.63,0.59,Luis Gil,3.38,Framber Valdez,6.35,True
 "August 9, 2025",SF,WSH,1.0,3.0,8.0,11.0,0.312,0.308,0.378,0.384,12.0,17.0,7.0,8.0,1.27,1.45,0.59,0.64,Carson Whisenhunt,6.75,Brad Lord,1.5,False
@@ -1898,7 +1867,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "August 17, 2025",SF,TB,2.0,0.0,11.0,5.0,0.309,0.313,0.374,0.398,9.0,10.0,9.0,11.0,1.28,1.21,0.72,0.62,Logan Webb,0.0,Ryan Pepiot,6.35,True
 "August 17, 2025",LAD,SD,3.0,1.0,6.0,10.0,0.33,0.322,0.439,0.383,7.0,17.0,13.0,11.0,1.31,1.2,0.65,0.66,Tyler Glasnow,3.6,Yu Darvish,9.0,True
 "August 17, 2025",NYM,SEA,1.0,1.0,14.0,10.0,0.321,0.32,0.415,0.41,21.0,17.0,8.0,9.0,1.32,1.24,0.65,0.63,Clay Holmes,1.8,George Kirby,13.5,True
-"August 18, 2025",CHC,MIL,0.0,2.0,2.0,9.0,0.319,0.333,0.429,0.407,9.0,14.0,11.0,8.0,1.21,1.23,0.58,0.64,Cade Horton,3.38,Freddy Peralta,0.0,False
 "August 18, 2025",DET,HOU,4.0,0.0,13.0,5.0,0.318,0.319,0.423,0.401,20.0,15.0,11.0,8.0,1.22,1.22,0.66,0.59,Jack Flaherty,0.0,Spencer Arrighetti,9.0,True
 "August 18, 2025",PIT,TOR,0.0,0.0,6.0,6.0,0.303,0.338,0.345,0.429,18.0,8.0,11.0,8.0,1.24,1.26,0.7,0.62,Paul Skenes,3.0,Kevin Gausman,3.6,True
 "August 18, 2025",MIA,STL,1.0,1.0,6.0,10.0,0.315,0.318,0.397,0.387,9.0,15.0,9.0,8.0,1.3,1.29,0.66,0.69,Eury Pérez,2.08,Matthew Liberatore,5.4,False
@@ -1910,7 +1878,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "August 18, 2025",LAA,CIN,0.0,1.0,8.0,11.0,0.307,0.318,0.407,0.392,15.0,17.0,8.0,10.0,1.43,1.24,0.63,0.6,Victor Mederos,5.4,Brady Singer,1.5,False
 "August 18, 2025",AZ,CLE,0.0,2.0,6.0,5.0,0.326,0.299,0.439,0.375,19.0,6.0,4.0,9.0,1.34,1.31,0.67,0.63,Zac Gallen,4.5,Gavin Williams,0.0,False
 "August 18, 2025",SD,SF,1.0,3.0,6.0,8.0,0.321,0.309,0.383,0.376,10.0,20.0,10.0,7.0,1.21,1.28,0.61,0.69,Nestor Cortes,6.35,Robbie Ray,0.0,False
-"August 19, 2025",CHC,MIL,2.0,1.0,8.0,8.0,0.319,0.333,0.429,0.407,8.0,17.0,9.0,9.0,1.21,1.23,0.63,0.66,Matthew Boyd,6.75,Chad Patrick,5.4,True
 "August 19, 2025",CHC,MIL,2.0,1.0,8.0,8.0,0.319,0.333,0.429,0.407,8.0,17.0,9.0,9.0,1.21,1.23,0.63,0.66,Matthew Boyd,6.75,Chad Patrick,5.4,True
 "August 19, 2025",CHC,MIL,0.0,0.0,9.0,7.0,0.319,0.332,0.429,0.406,19.0,10.0,5.0,9.0,1.21,1.23,0.64,0.67,Jameson Taillon,1.5,Brandon Woodruff,6.23,True
 "August 19, 2025",DET,HOU,0.0,0.0,5.0,4.0,0.318,0.318,0.422,0.399,15.0,8.0,12.0,9.0,1.22,1.22,0.72,0.59,Tarik Skubal,0.0,Hunter Brown,0.0,True
@@ -2287,7 +2254,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "September 15, 2025",HOU,TEX,1.0,1.0,6.0,10.0,0.318,0.306,0.4,0.387,8.0,11.0,8.0,5.0,1.22,1.17,0.68,0.64,Jason Alexander,1.93,Jack Leiter,4.05,True
 "September 15, 2025",AZ,SF,1.0,1.0,9.0,2.0,0.324,0.312,0.435,0.388,13.0,5.0,10.0,6.0,1.32,1.31,0.6,0.61,Zac Gallen,1.5,Kai-Wei Teng,0.0,True
 "September 15, 2025",LAD,PHI,3.0,3.0,9.0,5.0,0.33,0.331,0.439,0.432,18.0,13.0,11.0,11.0,1.27,1.24,0.62,0.63,Emmet Sheehan,1.59,Ranger Suárez,4.5,False
-"September 16, 2025",WSH,ATL,0.0,2.0,8.0,13.0,0.307,0.318,0.388,0.395,15.0,17.0,5.0,12.0,1.44,1.32,0.64,0.64,Jake Irvin,7.5,José Suarez,2.57,False
 "September 16, 2025",WSH,ATL,0.0,0.0,5.0,6.0,0.306,0.318,0.386,0.395,14.0,17.0,8.0,10.0,1.44,1.31,0.59,0.67,MacKenzie Gore,0.0,Chris Sale,0.0,False
 "September 16, 2025",DET,CLE,3.0,1.0,9.0,13.0,0.318,0.296,0.42,0.372,15.0,21.0,15.0,9.0,1.24,1.29,0.68,0.63,Casey Mize,5.06,Joey Cantillo,1.8,False
 "September 16, 2025",PIT,CHC,0.0,1.0,4.0,14.0,0.304,0.321,0.347,0.428,10.0,24.0,13.0,12.0,1.23,1.19,0.63,0.64,Paul Skenes,7.36,Cade Horton,1.8,False
@@ -2344,7 +2310,6 @@ Date,Home Team,Away Team,Home homeruns,Away homeruns,Home hits,Away hits,Home ob
 "September 19, 2025",AZ,PHI,1.0,2.0,7.0,13.0,0.324,0.33,0.434,0.432,14.0,17.0,8.0,5.0,1.31,1.24,0.59,0.63,Ryne Nelson,3.6,Taijuan Walker,4.5,False
 "September 19, 2025",LAD,SF,3.0,1.0,7.0,8.0,0.329,0.311,0.44,0.385,5.0,24.0,14.0,6.0,1.27,1.3,0.65,0.66,Clayton Kershaw,4.15,Robbie Ray,9.64,True
 "September 20, 2025",DET,ATL,2.0,3.0,9.0,7.0,0.316,0.319,0.417,0.397,11.0,12.0,6.0,11.0,1.25,1.3,0.64,0.68,Keider Montero,9.0,Joey Wentz,3.6,False
-"September 20, 2025",MIN,CLE,0.0,5.0,3.0,10.0,0.312,0.297,0.398,0.375,7.0,10.0,7.0,10.0,1.34,1.27,0.61,0.63,Joe Ryan,7.2,Slade Cecconi,0.0,False
 "September 20, 2025",MIN,CLE,0.0,0.0,4.0,9.0,0.312,0.297,0.397,0.374,7.0,8.0,7.0,9.0,1.34,1.27,0.59,0.63,Bailey Ober,10.8,Logan Allen,0.0,False
 "September 20, 2025",NYM,WSH,0.0,1.0,11.0,6.0,0.328,0.305,0.429,0.386,28.0,20.0,12.0,10.0,1.33,1.44,0.68,0.67,Nolan McLean,1.8,Cade Cavalli,0.0,False
 "September 20, 2025",CIN,CHC,3.0,2.0,9.0,7.0,0.316,0.32,0.393,0.427,15.0,9.0,7.0,9.0,1.23,1.19,0.66,0.63,Zack Littell,3.6,Javier Assad,4.5,True
