@@ -1,0 +1,48 @@
+Series_Game,Actual Winner,Predicted Winner,Correct
+WS Game 1,TOR,TOR,True
+WS Game 2,LAD,TOR,False
+WS Game 3,LAD,LAD,True
+WS Game 4,TOR,LAD,False
+WS Game 5,TOR,LAD,False
+WS Game 6,LAD,TOR,False
+WS Game 7,LAD,TOR,False
+ALCS Game 1,SEA,TOR,False
+ALCS Game 2,SEA,TOR,False
+ALCS Game 3,TOR,TOR,True
+ALCS Game 4,TOR,TOR,True
+ALCS Game 5,SEA,TOR,False
+ALCS Game 6,TOR,TOR,True
+ALCS Game 7,TOR,TOR,True
+NLCS Game 1,LAD,LAD,True
+NLCS Game 2,LAD,LAD,True
+NLCS Game 3,LAD,MIL,False
+NLCS Game 4,LAD,MIL,False
+ALDS Game 1,TOR,TOR,True
+ALDS Game 2,TOR,TOR,True
+ALDS Game 3,NYY,NYY,True
+ALDS Game 4,TOR,NYY,False
+ALDS Game 1,DET,DET,True
+ALDS Game 2,SEA,DET,False
+ALDS Game 3,SEA,SEA,True
+ALDS Game 4,DET,SEA,False
+ALDS Game 5,SEA,DET,False
+NLDS Game 1,MIL,CHC,False
+NLDS Game 2,MIL,CHC,False
+NLDS Game 3,CHC,CHC,True
+NLDS Game 4,CHC,CHC,True
+NLDS Game 5,MIL,CHC,False
+NLDS Game 1,LAD,PHI,False
+NLDS Game 2,LAD,PHI,False
+NLDS Game 3,PHI,LAD,False
+NLDS Game 4,LAD,LAD,True
+AL Wild Card Game 1,DET,DET,True
+AL Wild Card Game 2,CLE,DET,False
+AL Wild Card Game 3,DET,DET,True
+AL Wild Card Game 1,BOS,NYY,False
+AL Wild Card Game 2,NYY,NYY,True
+AL Wild Card Game 3,NYY,NYY,True
+NL Wild Card Game 1,LAD,LAD,True
+NL Wild Card Game 2,LAD,LAD,True
+NL Wild Card Game 1,CHC,CHC,True
+NL Wild Card Game 2,SD,CHC,False
+NL Wild Card Game 3,CHC,CHC,True
