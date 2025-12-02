@@ -1,3 +1,6 @@
+### This file contains all the useful functions to extract MLB data using the mlbstatsapi library
+
+
 import mlbstatsapi
 mlb = mlbstatsapi.Mlb()
 import numpy as np
