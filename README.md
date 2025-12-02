@@ -34,7 +34,10 @@ By running every cell in this file, you will generate the `mlb_game_data_2025v2_
 
 ## Other files
 
-The rest of the file were used to either 1. learn how to extract data from the MLB API and pick the right features or 2. Learn about the different classifier models we used for this project.
+The rest of the files were used to either 
+
+1. Learn how to extract data from the MLB API and pick the right features 
+2. Learn about the different classifier models we used for this project.
 
 We hope you enjoyed our project, it was very fun and challenging!
 
