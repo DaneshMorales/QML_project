@@ -36,5 +36,10 @@ By running every cell in this file, you will generate the `mlb_game_data_2025v2_
 
 The rest of the file were used to either 1. learn how to extract data from the MLB API and pick the right features or 2. Learn about the different classifier models we used for this project.
 
+We hope you enjoyed our project, it was very fun and challenging!
+
+Thanks for a wonderful term,
+Danesh and Jonathan
+
 
 Github link: https://github.com/DaneshMorales/QML_project
