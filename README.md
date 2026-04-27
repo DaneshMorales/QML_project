@@ -1,7 +1,7 @@
 # Quantum Machine Learning for MLB Game Prediction
 
 **Course:** ECE 733 – Quantum Machine Learning, University of Waterloo
-**Authors:** Jonathan & Danesh Morales
+**Authors:** Jonathan Zhu & Danesh Morales
 **GitHub:** [DaneshMorales/QML_project](https://github.com/DaneshMorales/QML_project)
 
 ---
